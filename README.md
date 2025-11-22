@@ -1,2 +1,2 @@
-# TabPFN25
-Example code for TabPFN v2.5
+# TabPFN
+Example code for TabPFN v2.5.  
